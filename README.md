@@ -1,40 +1,36 @@
-# PHPixie PHP Framework
-<p align="center">
-  <img src="https://phpixie.com/images/logo.png"/>
-</p>
+PHPixie PHP Framework
+<p align="center"> <img src="https://phpixie.com/images/logo.png" alt="PHPixie Logo"/> </p>
 
-Website: [phpixie.com](https://phpixie.com/)
+🔗 Website oficial: phpixie.com
 
-PHPixie started as a micro framework and has gradually grown to be one of the 
-most popular fullstack PHP frameworks while retaining its high performance. 
-This is in part because of the strict architecture that avoids common pitfalls 
-such as reliance on static methods, global scope, singletons and other antipatterns, 
-thus also ensuring that the code is easy to read, debug, extend and test. 
-In fact, all PHPixie components boast full unit test coverage. This PHP framework
-never stands in your way and provides you with full control over execution 
-flow. It's easy to learn and straightforward to master.
+PHPixie começou como um micro framework e evoluiu para se tornar um dos frameworks PHP fullstack mais populares, mantendo uma performance excepcional.
 
-But it's not all just about the code. The PHPixie community is very friendly and 
-helpful—you can expect an answer to your question within minutes of asking 
-it in the chat. The framework documentation is full of examples and is regularly 
-updated with tutorial videos.
+Essa eficiência vem de uma arquitetura bem definida, que evita armadilhas comuns como o uso de métodos estáticos, escopo global, singletons e outros antipadrões. Isso garante que o código seja legível, fácil de depurar, estender e testar.
 
-## Demo
-Want to see an example? Check out a simple base project implementing user and administrator authorization: https://github.com/phpixie/project-auth
+Todos os componentes do PHPixie possuem cobertura completa de testes unitários, oferecendo controle total sobre o fluxo de execução, sem interferências desnecessárias. É um framework fácil de aprender e direto de dominar.
 
-![Project Demo](http://i.imgur.com/WznceCf.gif)
+Além do código, o PHPixie possui uma comunidade ativa e acolhedora. Dúvidas costumam ser respondidas em poucos minutos no chat oficial. A documentação é rica em exemplos e constantemente atualizada, incluindo vídeos tutoriais.
+🎮 Demonstração
 
-### Interested? [Learn PHPixie in 30 minutes](https://phpixie.com/quickstart.html)
+Quer ver um exemplo em ação? Confira um projeto base simples com autenticação para usuários e administradores:
 
-**PHPixie will fit both newcomers and experienced architects providing ease of use, solid foundation and total flexibility.**
+👉 github.com/phpixie/project-auth
+<p align="center"> <img src="http://i.imgur.com/WznceCf.gif" alt="PHPixie Demo"/> </p>
+⏱️ Interessado? Aprenda PHPixie em 30 minutos
 
-## Highlights
-  - **Great performance** - Designed for speed while not compromising on features. Proven by [independant benchmarks](https://www.techempower.com/benchmarks/#section=data-r9&hw=peak&test=fortune&l=sg). 
-  - **Bundle System** - Reuse and share your code via Composer as self contained bundles
-  - **Linear code flow** - Never find yourself in an event hell ever again as event use is avoided
-  - **MongoDB Support** - Database components support working with MongoDB out of the box, including relationships between SQL databases and Mongo collections.
-  - **Best Practices** - Designed from scratch according to SOLID principles and industry standards.
-  - **Hardened Security** - Using cryptographically secure hashes, random tokens and secure cookie handing.
-  - **Developer support** - Need help? Just drop a line in the chat and get help from the creator in no time.
+PHPixie é ideal tanto para iniciantes quanto para desenvolvedores experientes, oferecendo facilidade de uso, uma base sólida e flexibilidade total.
+🚀 Destaques
 
- 
+    Desempenho de alto nível — Projetado para velocidade, sem comprometer os recursos. Comprovado por benchmarks independentes.
+
+    Sistema de Bundles — Reutilize e compartilhe seu código com Composer através de bundles auto-contidos.
+
+    Fluxo linear de execução — Sem eventos excessivos ou complexidade desnecessária.
+
+    Suporte a MongoDB — Componentes prontos para uso com MongoDB, incluindo relacionamentos entre bancos SQL e coleções Mongo.
+
+    Boas práticas — Desenvolvido do zero com base nos princípios SOLID e padrões da indústria.
+
+    Segurança reforçada — Hashes criptográficos seguros, tokens aleatórios e cookies protegidos.
+
+    Suporte ao desenvolvedor — Precisa de ajuda? Fale direto com o criador no chat e receba suporte rápido.
